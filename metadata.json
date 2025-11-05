@@ -1,0 +1,5 @@
+{
+  "name": "Flooring System Recommender",
+  "description": "An expert assistant for flooring and waterproofing material selection. Provide project details and a product catalog to receive a full system recommendation with detailed justifications, powered by Gemini.",
+  "requestFramePermissions": []
+}
